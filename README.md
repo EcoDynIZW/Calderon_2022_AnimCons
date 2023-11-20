@@ -1,6 +1,6 @@
 # Calderon et al. (2022) *Animal Conservation*
 
-> **A.P. Calderón**, **J. Louvrier**, **A. Planillo**, D. Araya-Gamboa, S. Arroyo-Arce, M. Barrantes-Núñez, J. Carazo-Salazar, D. Corrales-Gutiérrez, C.P. Doncaster, R. Foster, M.J. García, R. Garcia-Anleu, B. Harmsen, S. Hernández-Potosme, R. Leonardo, D.M. Trigueros, R. McNab, N. Meyer, R. Moreno, R. Salom-Pérez, A. Sauma Rossi, I. Thomson, D. Thornton, Y. Urbina, V. Grimm & **S. Kramer-Schadt** (2022), Occupancy models reveal potential of conservation prioritization for Central American jaguars. *Animal Conservation* (early view). DOI: [10.1111/acv.12772](https://doi.org/10.1111/acv.12772)
+> **A.P. Calderón**, **J. Louvrier**, **A. Planillo**, D. Araya-Gamboa, S. Arroyo-Arce, M. Barrantes-Núñez, J. Carazo-Salazar, D. Corrales-Gutiérrez, C.P. Doncaster, R. Foster, M.J. García, R. Garcia-Anleu, B. Harmsen, S. Hernández-Potosme, R. Leonardo, D.M. Trigueros, R. McNab, N. Meyer, R. Moreno, R. Salom-Pérez, A. Sauma Rossi, I. Thomson, D. Thornton, Y. Urbina, V. Grimm & **S. Kramer-Schadt** (2022). Occupancy models reveal potential of conservation prioritization for Central American jaguars. *Animal Conservation* 25(5):680-691. DOI: [10.1111/acv.12772](https://doi.org/10.1111/acv.12772)
 
 <img src="Calderon2022_AnimCons_graphicalAbstract.jpg" style="width:10.0%" />
 
